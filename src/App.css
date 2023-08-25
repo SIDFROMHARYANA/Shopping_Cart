@@ -39,3 +39,10 @@
     transform: rotate(360deg);
   }
 }
+
+.app {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: yellow; /* Set the background color to yellow */
+}
